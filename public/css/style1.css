@@ -1,0 +1,27 @@
+body{
+  background-color: #ff4c68;
+  text-align: center;
+  margin:0;
+}
+/*.table-1{
+  /*position:absolute;
+  top:10%;
+  left:30%;
+  right:50%;
+  font-family: 'Montserrat', sans-serif;
+  color:#fff;
+  font-weight: bold;
+  position:relative;
+  margin:50px auto;
+
+  border-collapse: separate;
+
+
+
+}*/
+.table{
+  font-family: 'Montserrat', sans-serif;
+  color:#fff;
+  font-weight: bold;
+    padding:6% 20%;
+}

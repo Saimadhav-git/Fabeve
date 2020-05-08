@@ -1,0 +1,135 @@
+body{
+  font-family:'Montserrat';
+}
+#title{
+  background-color: #ff4c68;
+}
+#home-11{
+  font-family: 'Ubuntu', sans-serif;
+}
+#home-1{
+  padding:3% 15%;
+}
+#navbar{
+    padding:4.5rem 0;
+}
+
+.img-1{/*
+transform:rotate(25deg);*/
+  height:100%;
+}
+.nav-link{
+  font-size:1.2 rem;
+  font-family:'Montserrat-light';
+  font-weight: bold;
+}
+.navbar-brand{
+  font-family: 'ubuntu';
+  font-weight:bold;
+  font-size:2.5rem;
+}
+#h1-1{
+
+font-family: 'Montserrat', sans-serif;
+color:#fff;
+font-weight: bold;
+
+
+}#h1-2{
+
+  font-family: 'Montserrat', sans-serif;
+  color:#fff;
+  font-weight: bold;
+}
+.nav-item{
+  padding:0 18px;
+}
+.navbar-link{
+  font-family:'Montserrat-light';
+  font-size:1.2rem;
+}
+/*#features{
+  padding:7% 15%;
+}*/
+.row-1{
+  padding:7% 14%;
+}
+.feature-box{
+  text-align:center;
+  padding:4.5%;
+}
+p{
+  color:grey;
+}
+#h3{
+
+  font-family: 'Montserrat';
+  color:#000;
+  font-weight: bold;
+}
+.testimonial{
+  background-color:#ef8172;
+  text-align:center;
+
+}
+.carousel-item{
+  padding:7% 15%;
+}
+
+#home-3h11{
+  font-family: 'Montserrat', sans-serif;
+  color:#fff;
+  font-weight: bold;
+  padding:3%;
+}
+#card-body{
+  padding:0;
+
+}
+.img-5{
+    width:100%;
+}
+.cards{
+    background-color: #EDDCB0;
+    padding:7% 13%;
+}
+#h1-7{
+  font-family: 'Montserrat-dark';
+  color:#fff;
+  font-weight: bold;
+
+}
+.sodhi{
+  padding:6% 15%;
+}
+#sodhi-1{
+  padding:2% 0 5%;
+  /*  font-family: 'Montserrat-dark';
+      font-weight*/
+        font-family: 'Ubuntu-dark';
+          font-weight:bold;
+}
+#sodhi-11{
+  font-family: 'Montserrat-dark';
+      font-weight:bold;
+      padding:2% 0;
+}
+@media (maxwidth:985px){
+  #title{
+    text-align:center;
+  }
+}
+.last-2{
+  text-align:center;
+  font-family: 'Ubuntu', sans-serif;
+  padding:6% 15%;
+}
+.last-1{
+    background-color: #283149;
+  text-align:center;
+
+  padding:6% 15%;
+  font-family: 'Montserrat', sans-serif;
+  color:#fff;
+  font-weight: bold;
+}
